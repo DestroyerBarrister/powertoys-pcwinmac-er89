@@ -1,4 +1,4 @@
-# 
+# Automático PowerToys herramientas para Mac OS | Élite PowerToys herramientas para PC Windows. Con registro de transacciones y funcionalidad de búsqueda — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
